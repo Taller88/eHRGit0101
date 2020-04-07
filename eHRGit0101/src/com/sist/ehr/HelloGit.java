@@ -8,6 +8,9 @@ public class HelloGit {
 		System.out.println("This is Branch Test");
 		System.out.println("This is Branch Test");
 		
+		
+		System.out.println("Merge Test");
+		
 	}
 
 }
