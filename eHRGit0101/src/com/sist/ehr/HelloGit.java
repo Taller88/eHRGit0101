@@ -14,7 +14,7 @@ public class HelloGit {
 		
 		
 		System.out.println("Merge Testasd");
-		System.out.println("公均");
+		System.out.println("公asd均");
 
 	}
 
