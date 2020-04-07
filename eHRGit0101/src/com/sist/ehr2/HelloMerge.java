@@ -4,9 +4,9 @@ public class HelloMerge {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Merge Test!");
-		System.out.println("What");
-		System.out.println("公均");
+		System.out.println("Merge Test!123");
+		System.out.println("What123");
+		System.out.println("公均123");
 		
 
 	}
